@@ -1,8 +1,8 @@
 
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 
-I'm Ibrahim, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects.
+I'm Ibrahim, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
