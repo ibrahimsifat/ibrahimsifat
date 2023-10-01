@@ -1,6 +1,6 @@
 
 
-## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
+## Hello there, <img src="hello.gif" width="28px" alt="hi">
 
 I'm Ibrahim Sifat, a Full Stack Web Application Developer. I love building digital experiences and thrive on solving coding challenges. My world revolves around turning ideas into functional and user-friendly applications. Let's create something amazing together!
 :coffee: &emsp;Connect with me!
